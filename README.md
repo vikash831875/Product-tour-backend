@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧭 Product Tour Platform
 
 A full-stack Product Tour Platform where users can create, view, and manage guided product tours. It includes authentication, image uploads with Cloudinary, and a responsive frontend built in React.
@@ -24,3 +25,6 @@ A full-stack Product Tour Platform where users can create, view, and manage guid
 
 ## 📂 Folder Structure
 
+=======
+# Product-tour-backend
+>>>>>>> e43a15e9c0d44734bf9e8416f5ab91462222590c
